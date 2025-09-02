@@ -8,7 +8,7 @@
 
 #### ОТВЕТ:
 
-
+![alt text](https://github.com/Koksenka/ELK/blob/master/1.png)
 ---
 
 ### Задание 2. Kibana
@@ -19,7 +19,7 @@
 
 #### ОТВЕТ:
 
-
+![alt text](https://github.com/Koksenka/ELK/blob/master/2.png)
 ---
 
 ### Задание 3. Logstash
@@ -29,7 +29,7 @@
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
 #### ОТВЕТ:
-
+![alt text](https://github.com/Koksenka/ELK/blob/master/3.png)
 
 ---
 
@@ -41,5 +41,5 @@
 
 #### ОТВЕТ:
 
-
+![alt text](https://github.com/Koksenka/ELK/blob/master/4.png)
 ---
